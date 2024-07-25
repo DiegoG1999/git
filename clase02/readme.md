@@ -69,3 +69,6 @@ git switch <nombre de la rama>
 
 git branch -v
 
+## Borrar rama ( NO HAY QUE ESTAR PARADO EN LA MISMA RAMA QUE QUEREMOS BORRAR)
+
+git branch -d <nombre-rama> - si estamos seguros de borrarla, cambiamos la -d por -D ( D mayuscula)
