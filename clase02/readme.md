@@ -71,4 +71,8 @@ git branch -v
 
 ## Borrar rama ( NO HAY QUE ESTAR PARADO EN LA MISMA RAMA QUE QUEREMOS BORRAR)
 
-git branch -d <nombre-rama> - si estamos seguros de borrarla, cambiamos la -d por -D ( D mayuscula)
+git branch -d <nombre-rama> - si estamos seguros de borrarla, cambiamos la -d por -D ( D mayuscula) -> si el contenido de la rama que voy a borrar no esta en ningun otra rama, me va a pedir confirmacion.
+
+
+## Fusiones (merge) de ramas (branches)
+
