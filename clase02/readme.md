@@ -64,3 +64,8 @@ git branch "navbartrabajo"
 ## cambiar de ramas
 
 git switch <nombre de la rama>
+
+## ver que va sucediendo entre ramas
+
+git branch -v
+
